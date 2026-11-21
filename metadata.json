@@ -1,0 +1,6 @@
+{
+  "name": "Oakridge Academy - Official School Portal & Admissions",
+  "description": "A modern, professional and responsive school website featuring academic programmes, ongoing admissions, facilities, gallery, and interactive applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
